@@ -4,8 +4,9 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+## to compile the contracts run
 ```shell
-npx hardhat help
+npx hardhat compile
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
